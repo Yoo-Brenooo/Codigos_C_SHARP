@@ -19,3 +19,14 @@ U:\2° Módulo\Desenvolvimento de Sistemas\Pizzaria\Pizzaria\obj\Debug\Pizzaria.
 U:\2° Módulo\Desenvolvimento de Sistemas\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
 U:\2° Módulo\Desenvolvimento de Sistemas\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
 U:\2° Módulo\Desenvolvimento de Sistemas\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.AssemblyReference.cache
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe.config
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\obj\Debug\Pizzaria.frm_fundo.resources
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+U:\2° Módulo\Desenvolvimento de Sistemas\Projeto_Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb

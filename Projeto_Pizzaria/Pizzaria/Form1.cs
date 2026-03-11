@@ -48,7 +48,7 @@ namespace Pizzaria
 
                 lbl_Resul_QtdMassa.Text = qtd_pizza.ToString() + " (UN)";
                 lbl_Resul_QtdMolho.Text = qtd_molho.ToString("F2") + " (KG)";
-                lbl_Resul_QtdQueijo.Text = qtd_queijo.ToString("F2" + " (KG)");
+                lbl_Resul_QtdQueijo.Text = qtd_queijo.ToString("F2") + " (KG)";
             }
             else
             {
